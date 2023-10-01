@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Backend development with Node.js**
 
-- 👨‍💻 All of my projects are available at [https://development-by-sam.framer.ai/](https://development-by-sam.framer.ai/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://sam829.github.io/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/saumya-macwan-b650b91a1/](https://www.linkedin.com/in/saumya-macwan-b650b91a1/)
+- 📝 I regularly write articles on [My LinkedIn](https://www.linkedin.com/in/saumya-macwan-b650b91a1/)
 
 - 💬 Ask me about **Android, iOS, Flutter, React.JS, Node.js, GraphQL**
 
