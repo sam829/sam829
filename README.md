@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saumya Macwan</h1>
 <h3 align="center">I'm an adaptable Mobile App developer 📱 with expertise in crafting cutting-edge apps for Android (Jetpack Compose, XML, Flutter) and iOS (Swift and Flutter). My passion lies in solving complex challenges and creating intelligent and efficient applications. I continuously stay abreast of the latest advancements in technology to deliver high-caliber and innovative solutions across diverse projects.</h3>
 
-- 🔭 I’m currently working on **a daily commute resolution project**
-
 - 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [https://development-by-sam.framer.ai/](https://development-by-sam.framer.ai/)
