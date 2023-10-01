@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/saumya-macwan-b650b91a1/](https://www.linkedin.com/in/saumya-macwan-b650b91a1/)
 
-- 💬 Ask me about **Android, iOS, Flutter, React.JS**
+- 💬 Ask me about **Android, iOS, Flutter, React.JS, Node.js, GraphQL**
 
 - 📫 How to reach me **macwansam2@gmail.com**
 
