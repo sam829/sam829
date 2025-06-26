@@ -11,7 +11,7 @@
 
 - 💡 Recently published a logging plugin for Flutter: [`simple_logger_overlay`](https://pub.dev/packages/simple_logger_overlay)
 
-- 👨‍💻 All my major work is showcased at: [My Portfolio](https://sam829.github.io/)
+- 👨‍💻 All my major work is showcased at: [My Portfolio](https://portfolio.sammacwan.in/)
 
 - 📬 Reach me at **macwansaumya2@gmail.com**
 
