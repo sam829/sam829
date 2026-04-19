@@ -155,12 +155,12 @@ open_source:
   </tr>
   <tr>
     <td>📖</td>
-    <td><b>Flutter Clean Architecture — The Definitive Guide</b></td>
+    <td><a href="https://sam829.github.io/articles/flutter_architecture.html"><b>Flutter Clean Architecture — The Definitive Guide</b></a></td>
     <td><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></td>
   </tr>
   <tr>
     <td>📖</td>
-    <td><b>Android Clean Architecture — The Definitive Guide</b></td>
+    <td><a href="https://sam829.github.io/articles/android_architecture.html"><b>Android Clean Architecture — The Definitive Guide</b></a></td>
     <td><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></td>
   </tr>
 </table>
