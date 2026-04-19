@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=sam829&label=Profile%20views&color=0891b2&style=flat-square" alt="profile views" />
   <a href="https://www.linkedin.com/in/saumya-macwan-b650b91a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:macwansaumya2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://portfolio.sammacwan.in/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://info.sammacwan.in/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white" alt="Portfolio"/></a>
   <a href="https://pub.dev/packages/simple_logger_overlay"><img src="https://img.shields.io/badge/pub.dev-plugin-0175C2?style=flat-square&logo=dart&logoColor=white" alt="pub.dev"/></a>
 </p>
 
